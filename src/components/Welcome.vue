@@ -36,7 +36,7 @@
 Included. On Github I have projects in JavaScript, Python and Ruby. I did a coding bootcamp and I contunue to learn on my own.I know JavaScript, Python, HTML, CSS and Vue and I am learning Ruby on Rails currently. I have done some contract work with a backend engineer, doing the front-end parts of applications to make internal tools.
             </base-text>
             <base-btn class="mt-4">
-              See Projects
+               <a href="https://gentle-sierra-10626.herokuapp.com/#/Memory">See Projects</a>
             </base-btn>
           </v-col>
         </v-row>
