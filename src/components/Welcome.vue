@@ -8,6 +8,7 @@
         class="hidden-sm-and-down"
         md="6"
       >
+      
         <v-img
           :src="require('@/assets/cartmanOnComputer.jpg')"
           height="100vh"
