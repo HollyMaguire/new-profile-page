@@ -28,7 +28,8 @@
         </base-subheading>
 
         <base-text class="mb-5">
-          I am most comfortable with JavaScript using Vue as a framework. I can use HTML (which I think pretty much anyone can), Css, Vuetify, Bootstrap, BootstrapVue. I also know Python, and am learning Ruby on Rails currently. I have done a react and node class, as well as a Java with Springboot class. However these I did not list at the top of the site as I am not as comfortable with them but I could refresh them.
+          I am most comfortable with JavaScript with React or Vue. I am also good with Angular and typescript, I can use HTML (which I think pretty much anyone can), Css, Vuetify, Bootstrap, BootstrapVue. I also know Python with Django, and Ruby on Rails. I have used AWS in the past as well as Heroku and Docker. My experience using AWS has been with EC2, RDS, S3 buckets, AWS Lambda function, SNS Topics, Route 53, RDS, SES, SNS, load balancing and auto scaling. As well as Object Storage Options and Monitoring Services.
+
         </base-text>
       </v-col>
 

@@ -13,7 +13,6 @@
           height="100vh"
         />
       </v-col>
-
       <v-col
         class="align-content-space-between layout wrap"
         cols="12"
@@ -34,7 +33,7 @@
           >
             <base-text>
             I linked a little projects page with little games and tools in the button below. I also have <a href="https://github.com/HollyMaguire"> <strong> My Git Hub link</strong></a>
-            Included. On Github I have projects in JavaScript, Python and Ruby. I did a coding bootcamp and I contunue to learn on my own.I know JavaScript, Python, HTML, CSS and Vue and I am learning Ruby on Rails currently. I have done some contract work with a backend engineer, doing the front-end parts of applications to make internal tools.
+            Included. On Github I have public projects in JavaScript, Python and Ruby. I did a coding bootcamp and I contunue to learn on my own.I know JavaScript with Vue and React, Typescript with Angular, Python with Djago and Flask, Ruby/ Ruby on Rails, HTML, CSS.  I have done some contract work, most working with a backend engineer, doing the front-end parts of applications to make internal tools. I have also done some fullstack contracts as well.
             </base-text>
             <base-btn class="mt-4">
                <a href="https://gentle-sierra-10626.herokuapp.com/#/Memory">See Projects</a>
