@@ -38,7 +38,7 @@
             <base-text class="mb-5">
 I was originally a Chemist, with several publications to my name and I programmed robots in my lab. This is where I first fell in love with programming. I have a lot of analytical skills from my time in research, it also honed skills for problem solving and critical thinking.
 I was the project lead for a Malaria drug discovery project which allowed me to develop leadership skills. I gained experience working in teams from animal work project, all animal work was done closely with a team. I also have experience working independently from a cloning and gene-splicing project, and from my time doing polymer research.
-In more recient years I have been switching to software and doing contract work, first with front end projects then transistioned into fullstack contracts.
+In more recient years I have been switching to software and doing contract work, first with front end projects then transistioned into fullstack contracts. I am currently doing
 
             </base-text>
           </v-col>
