@@ -19,9 +19,9 @@
         md="6"
         :pa-5="$vuetify.breakpoint.smAndDown"
       >
-        <base-bubble-1
+        <!-- <base-bubble-1
           style="transform: rotate(180deg) translateY(25%)"
-        />
+        /> -->
 
         <v-row
           align="center"
@@ -31,12 +31,29 @@
             cols="10"
             md="6"
           >
+        <base-heading class="info--text">
+             Code challenges and assessments samples
+            </base-heading>
             <base-text>
-            I linked a little projects page with little games and tools in the button below. I also have <a href="https://github.com/HollyMaguire"> <strong> My Git Hub link</strong></a>
-            Included. On Github I have public projects in JavaScript, Python and Ruby. I did a coding bootcamp and I contunue to learn on my own.I know JavaScript with Vue and React, Typescript with Angular, Python with Djago and Flask, Ruby/ Ruby on Rails, HTML, CSS.  I have done some contract work, most working with a backend engineer, doing the front-end parts of applications to make internal tools. I have also done some fullstack contracts as well.
+            I linked a page with little games and tools that I have noticed are commonly asked for in coding assessments I also have <a href="https://github.com/HollyMaguire"> <strong> My Git Hub link</strong></a>
+            Included. On Github I have public projects in JavaScript, Python and Ruby. Many of the public ones are also previous assessments. I have included links to other past assessments for easier viewing. I also have aditional samples of my work below this section.
             </base-text>
-            <base-btn class="mt-4">
-               <a href="https://gentle-sierra-10626.herokuapp.com/#/Memory">See Projects</a>
+               <base-btn class="mt-4">
+               <a href="https://git-lab-challenge.herokuapp.com/">Searches through a gitlab project and uses GraphQl </a>
+            </base-btn>
+              <base-btn class="mt-4">
+               <a href="https://gentle-sierra-10626.herokuapp.com/#/Memory">Games and commonly asked task/assessments</a>
+            </base-btn>
+             <base-text class="mb-5">On CodePen </base-text>
+               <base-btn class="mt-4">
+               <a href="https://codepen.io/hollyMaguire/pen/gOvJNJd">Select a user and see all of their post</a>
+            </base-btn>
+               <base-btn class="mt-4">
+               <a href="https://codepen.io/hollyMaguire/pen/ZEemarz">Tic-tac-toe</a>
+            </base-btn>
+            <br>
+              <base-btn class="mt-4">
+               <a href="https://codepen.io/hollyMaguire/pen/zYNeExx">User list</a>
             </base-btn>
           </v-col>
         </v-row>

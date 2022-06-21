@@ -20,7 +20,7 @@
 
         <base-text class="mb-5">
           <br>
-        I love animals, I have a particular fondness of ducks, pidgeons and coy fish. I am a bjj blue belt, I also do judo and powerlifting.
+         I prefer front end engineering, but I have also worked in fullstack. For my start in software I was working various contracts mostly internal HR tools. I then went into government work, with the deapartment of energy/eia and the deparment of defense, modernizing fedmall. I have developed using Windows and Linux.
         </base-text>
 
         <base-subheading class="info--text">
@@ -28,8 +28,9 @@
         </base-subheading>
 
         <base-text class="mb-5">
-          I am most comfortable with JavaScript with React or Vue. I am also good with Angular and typescript, I can use HTML (which I think pretty much anyone can), Css, Vuetify, Bootstrap, BootstrapVue. I also know Python with Django, and Ruby on Rails. I have used AWS in the past as well as Heroku and Docker. My experience using AWS has been with EC2, RDS, S3 buckets, AWS Lambda function, SNS Topics, Route 53, RDS, SES, SNS, load balancing and auto scaling. As well as Object Storage Options and Monitoring Services.
-
+          Front-end: Vue, React, Angular, Javascript, Typescript, Scss, Css, Vuetify, Bootstrap, BootstrapVue, WAVE,  Scss, Css, HMTL <br>
+          Back-end: Ruby on rails, Python, PHP<br>
+          Dev-ops: EC2, RDS, S3, SNS, SES, Lambda, Elastic Beanstalk, VPC, IAM, AMI, Auto Scaling, Load Balancing, deployment with AWS.
         </base-text>
       </v-col>
 

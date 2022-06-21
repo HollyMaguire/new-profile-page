@@ -32,15 +32,25 @@
               style="transform: translateX(55%)"
             />
             <base-heading class="info--text">
-              Background
+              Sample Work
             </base-heading>
-
-            <base-text class="mb-5">
-I was originally a Chemist, with several publications to my name and I programmed robots in my lab. This is where I first fell in love with programming. I have a lot of analytical skills from my time in research, it also honed skills for problem solving and critical thinking.
-I was the project lead for a Malaria drug discovery project which allowed me to develop leadership skills. I gained experience working in teams from animal work project, all animal work was done closely with a team. I also have experience working independently from a cloning and gene-splicing project, and from my time doing polymer research.
-In more recient years I have been switching to software and doing contract work, first with front end projects then transistioned into fullstack contracts. I am currently doing
-
+            <base-text class="mb-5">The majority of my work is not visable to the public, but I have given external links for some parts of my work which can be publically viewed. For Fedmall only small parts are viewable for the public.
             </base-text>
+            <base-btn class="mt-4">
+               <a href="https://www.eia.gov/international/data/world">International Data</a>
+            </base-btn>
+                        <base-btn class="mt-4">
+               <a href="https://www.eia.gov/todayinenergy/">Today in Energy</a>
+            </base-btn>
+                        <base-btn class="mt-4">
+               <a href="https://www.fedmall.mil/index.html">FedMall</a>
+            </base-btn>
+                        <base-btn class="mt-4">
+               <a href="https://www.eia.gov/outlooks/steo/">Short Term Energy Outlook</a>
+            </base-btn>
+                             <base-btn class="mt-4">
+               <a href="https://www.eia.gov/opendata/">Open Data</a>
+            </base-btn>
           </v-col>
 
           <v-col
@@ -81,15 +91,12 @@ In more recient years I have been switching to software and doing contract work,
     name: 'Services',
 
     data: () => ({
-      services: [
-        {
-          name: 'Research',
-          icon: 'mdi-clipboard-text-outline',
-        },
-        {
-          name: 'Development',
-          icon: 'mdi-settings-outline',
-        },
+      projects: [
+        'https://www.eia.gov/international/data/world',
+        'https://www.eia.gov/todayinenergy/',
+        'https://www.fedmall.mil/index.html',
+        'https://www.eia.gov/outlooks/steo/',
+        'https://www.eia.gov/opendata/',
       ],
     }),
   }
