@@ -31,9 +31,9 @@
             cols="10"
             md="6"
           >
-        <base-heading class="info--text">
+        <!-- <base-heading class="info--text">
              Code challenges and assessments samples
-            </base-heading>
+            </base-heading> -->
             <base-text>
             I linked a page with little games and tools that I have noticed are commonly asked for in coding assessments I also have <a href="https://github.com/HollyMaguire"> <strong> My Git Hub link</strong></a>
             Included. On Github I have public projects in JavaScript, Python and Ruby. Many of the public ones are also previous assessments. I have included links to other past assessments for easier viewing. I also have aditional samples of my work below this section.
